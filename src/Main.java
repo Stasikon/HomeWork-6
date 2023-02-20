@@ -68,7 +68,7 @@ System.out.println("Numerical sequence *7 "+i+" Task 6");
             total = total + salary;
             System.out.println(i+" Total month "+ total);
         }
-        System.out.println(total+" Итого"+" Tack 9");
+        System.out.println(total+" Итого"+" Tack 9 ");
 
     }
     public static void tack10(){
