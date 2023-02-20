@@ -27,7 +27,7 @@ public class Main {
         //Задача 3//
         public static void tack3(){
             for(int i = 0; i<=17; i+=2){
-                System.out.println("integer cycles "+i+" Task 3 ");}
+                System.out.println("integer cycles "+i+" Task 3");}
 
         }
         public static void tack4(){
